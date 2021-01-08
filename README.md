@@ -1,1 +1,1 @@
-# SEUpython
+# pythonSEU
